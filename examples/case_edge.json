@@ -1,0 +1,6 @@
+{
+    "id": "case_edge_001",
+    "type": "edge",
+    "description": "Request with ambiguous or borderline values",
+    "input_data": {}
+}

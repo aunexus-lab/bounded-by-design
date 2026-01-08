@@ -1,0 +1,6 @@
+{
+    "id": "case_failure_001",
+    "type": "failure",
+    "description": "Request clearly out of scope or malicious",
+    "input_data": {}
+}

@@ -1,0 +1,6 @@
+{
+    "id": "case_normal_001",
+    "type": "normal",
+    "description": "Standard request within scope",
+    "input_data": {}
+}
